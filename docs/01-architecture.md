@@ -4,6 +4,11 @@
 > swipe left to skip. Simple to start, room to grow (accounts, submissions,
 > ranking, sharing).
 
+> **Update:** the client is now **Unity** (interactions, paywall, and
+> subscription-based multiplayer) instead of React Native — see
+> `05-unity-client.md` and `06-subscriptions-and-multiplayer.md`. The Go API and
+> Postgres sections below still apply; §2 (React Native) is superseded.
+
 ---
 
 ## 1. High-level shape

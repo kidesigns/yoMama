@@ -7,6 +7,11 @@
 >
 > This doc gives you the **pipeline**, the **exact prompts**, and **what to ask
 > for at each stage**, tailored to this app.
+>
+> **Update:** the client is now Unity (`05-unity-client.md`). Stages 1–5 still
+> work as-is (HTML prototypes are the fastest way to agree on flows — also
+> prototype the paywall and Party screens). For Step 6, ask Claude to convert
+> the approved screen into uGUI + the scripts in `unity/` instead of React Native.
 
 ---
 
